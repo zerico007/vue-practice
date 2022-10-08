@@ -18,7 +18,7 @@ import hi from "../assets/hi.png";
 .greeting {
   margin: 2rem auto;
   background: rgba(255 255 255 / 0.5);
-  outline: 2px solid rgba(255 255 255 / 0.4);
+  border: 2px solid rgba(255 255 255 / 0.4);
   display: flex;
   flex-direction: column;
   padding: 1rem;

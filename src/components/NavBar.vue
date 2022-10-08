@@ -65,6 +65,7 @@ const links = ["Projects", "Skills", "Resume", "Contact"];
     justify-content: center;
     width: 5rem;
     margin: 0 0.2rem;
+    font-size: large;
   }
 }
 
